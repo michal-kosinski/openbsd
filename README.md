@@ -1,0 +1,2 @@
+# openbsd
+OpenBSD cheat sheet
